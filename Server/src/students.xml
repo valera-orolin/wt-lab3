@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><students>
+    <student>
+        <name>Valera</name>
+        <lastname>Orolin</lastname>
+        <age>19</age>
+        <spec>POIT</spec>
+    </student>
+    <student>
+        <name>Ivan</name>
+        <lastname>Ivanov</lastname>
+        <age>21</age>
+        <spec>VMSIS</spec>
+    </student>
+    <student>
+        <name>Oksana</name>
+        <lastname>Anatolievna</lastname>
+        <age>18</age>
+        <spec>IITP</spec>
+    </student>
+<student><name>1</name><lastname>2</lastname><age>3</age><spec>4</spec></student></students>
